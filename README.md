@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently student at Queen Mary University of London
-- 🌱 I’m currently learning Fiance
+- 🌱 I’m currently learning Finance
   <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
